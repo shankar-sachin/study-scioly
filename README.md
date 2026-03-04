@@ -6,6 +6,8 @@
 
 **Step 1**
 - Go to the scraper in the repo and then copy
+- If you would like incorrect-only answers: [Incorrect](incorrect-only-scrape.js)
+- If you would like partial + incorrect answers: [Both](partial-plus-incorrect.js)
 ---
 **Step 2**
 - Log into the invitationals you want to use from Scilympiad and click on Graded Tests
