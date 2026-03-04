@@ -4,7 +4,25 @@
 
 ## ⏻ Quick Start
 
-Unless you genuinely want to waste your splendid time on this repository, I'd recommend just going to one of the scrapers, going to DevTools, pasting, and then taking that and uploading it to an AI, then getting the prompt from (single invy)[info/PROMPT_SINGLE.md] or (single invy)[info/PROMPT_MULTI.md] and then taking that study guide and using it.
+Unless you genuinely want to waste your splendid time on this repository, I'd recommend just going to one of the scrapers, going to DevTools, pasting, and then taking that and uploading it to an AI, then getting the prompt from [single invy](info/PROMPT_SINGLE.md) or [single invy](info/PROMPT_MULTI.md) and then taking that study guide and using it.
+
+**Step 1**
+- Go to the scraper in the repo and then copy
+**Step 2**
+- Log into the invitationals you want to use from Scilympiad and click on Graded Tests
+- Then select the test you would like to scrape
+**Step 3**
+- Press Ctrl+Shift+I or right click and click inspect
+- Then click on Console on the top bar
+**Step 4**
+- Paste the JS scraper code into the console and click enter
+- If you would like, you may view the downloaded JSON file
+**Step 5**
+- Go to a preferred AI (ChatGPT, Claude, etc.)
+- Use the prompt given in (Multiple Invitationals)[info/PROMPT_MULTI.md] or (Single Invitational)[info/PROMPT_SINGLE.md]
+- Paste it into the AI and upload the JSON file from your Downloads folder
+**Step 6**
+- Watch the magic work!
 
 ---
 
