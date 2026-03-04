@@ -1,8 +1,18 @@
-# 🏆 Science Olympiad Cheat Sheet Generator
+# 🏆 Science Olympiad Study Guide Generator from Online Invitationals (through Scilympiad)
+
+---
+
+## ⏻ Quick Start
+
+Unless you genuinely want to waste your splendid time on this repository, I'd recommend just going to one of the scrapers, going to DevTools, pasting, and then taking that and uploading it to an AI, then getting the prompt from (single invy)[info/PROMPT_SINGLE.md] or (single invy)[info/PROMPT_MULTI.md] and then taking that study guide and using it.
+
+---
+
+## Overview
 
 Automatically scrape your flagged questions from [Scilympiad](https://scilympiad.com), dump them to JSON, then feed them to Claude to generate a **nationals-ready `.docx` cheat sheet** covering every weak area.
 
-> Built for Division C. Tested on Solar System, Meteorology, and Oceanography.
+> Built for Division C-level students. Tested on Solar System, Meteorology, and Oceanography.
 > Credits: Info documents might be AI-y, they were built mostly on Claude.
 
 ---
