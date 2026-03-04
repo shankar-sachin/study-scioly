@@ -4,8 +4,6 @@
 
 ## ⏻ Quick Start
 
----
-
 **Step 1**
 - Go to the scraper in the repo and then copy
 ---
