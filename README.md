@@ -4,7 +4,7 @@
 
 ## ⏻ Quick Start
 
-Unless you genuinely want to waste your splendid time on this repository, I'd recommend just going to one of the scrapers, going to DevTools, pasting, and then taking that and uploading it to an AI, then getting the prompt from [single invy](info/PROMPT_SINGLE.md) or [single invy](info/PROMPT_MULTI.md) and then taking that study guide and using it.
+---
 
 **Step 1**
 - Go to the scraper in the repo and then copy
